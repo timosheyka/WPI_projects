@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    
+char str[N];
+    scanf("%s\n", &i);
+    printf("%s\n", i);
+    return 0;
+}
